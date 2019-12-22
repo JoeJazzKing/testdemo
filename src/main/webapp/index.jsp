@@ -4,5 +4,6 @@
 <html>
 <body>
 <h2>Hello World!我的第一个Jenkins，第一台服务器，第一个域名，欧耶！</h2>
+<h3>等待域名解析成功中!</h3>
 </body>
 </html>
