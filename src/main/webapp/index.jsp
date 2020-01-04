@@ -3,7 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <body>
-<h2>刘宇豪我真的喜欢你啊!!!!</h2>
-<h3>一定要等我!!!</h3>
+<h2 align="center">刘帅是个傻屌哦?</h2>
+<h3 align="center">对啊就是!</h3>
 </body>
 </html>
